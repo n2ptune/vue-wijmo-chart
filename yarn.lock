@@ -846,6 +846,764 @@
     lodash "^4.17.19"
     to-fast-properties "^2.0.0"
 
+"@grapecity/wijmo.barcode.common@5.20203.766":
+  version "5.20203.766"
+  resolved "https://registry.yarnpkg.com/@grapecity/wijmo.barcode.common/-/wijmo.barcode.common-5.20203.766.tgz#68904ef4587042f1ac8faed5a52c11918336a0cf"
+  integrity sha512-EmSewuKTVgtRsgLBNaLDlmMlurLXjTXX5wS2dka+Ak/Z7rUUFcRi2DC7msAfzf9QZ3CHtYxkvTSq29TbCu2/Vg==
+  dependencies:
+    "@grapecity/wijmo" "5.20203.766"
+    "@grapecity/wijmo.barcode" "5.20203.766"
+
+"@grapecity/wijmo.barcode.composite@5.20203.766":
+  version "5.20203.766"
+  resolved "https://registry.yarnpkg.com/@grapecity/wijmo.barcode.composite/-/wijmo.barcode.composite-5.20203.766.tgz#ee3c939c0bb5458ce3038c2a52501255e6f9b1a8"
+  integrity sha512-XgxFgE0WLcmkjgQg14i5dyBZoQiIMjwEZ77EP7Rg4DBeoqXcFK7oGQfQqhRO8rKFNB26Iar9O9KdKmWUbkubGw==
+  dependencies:
+    "@grapecity/wijmo" "5.20203.766"
+    "@grapecity/wijmo.barcode" "5.20203.766"
+
+"@grapecity/wijmo.barcode.specialized@5.20203.766":
+  version "5.20203.766"
+  resolved "https://registry.yarnpkg.com/@grapecity/wijmo.barcode.specialized/-/wijmo.barcode.specialized-5.20203.766.tgz#f86126a6302a139baca9c01371a426b51630bad7"
+  integrity sha512-TD6WTEui7cFsnwFIpGbtPwt5s33ndnjHFcYsyS+wXNJlYqUSnhNMLyeBvfd0W7rUOcyFCUWCglmdfUWqsh8U/A==
+  dependencies:
+    "@grapecity/wijmo" "5.20203.766"
+    "@grapecity/wijmo.barcode" "5.20203.766"
+
+"@grapecity/wijmo.barcode@5.20203.766":
+  version "5.20203.766"
+  resolved "https://registry.yarnpkg.com/@grapecity/wijmo.barcode/-/wijmo.barcode-5.20203.766.tgz#eaa519779959a8dd2695334afc827836ae55d7a5"
+  integrity sha512-ng3a9stpCmMhQZOrBnf8uCasHXUzC+AQWmQRO3XMEgLIrZBuXsLysi7SFzFkMrEOY0gQ09ShHmc84DoLWyCe8Q==
+  dependencies:
+    "@grapecity/wijmo" "5.20203.766"
+
+"@grapecity/wijmo.chart.analytics@5.20203.766":
+  version "5.20203.766"
+  resolved "https://registry.yarnpkg.com/@grapecity/wijmo.chart.analytics/-/wijmo.chart.analytics-5.20203.766.tgz#c5d1f5fd05e6b0472151ac9c9665a96482dfaaa6"
+  integrity sha512-Z37F70fybLi8jNhRwV0XInAR+zfeuTYh5kbLhO1m9u/UIFE0h2OwOYiGiKpyK1NN6mr/hVK/OCWKIvdINPA3eA==
+  dependencies:
+    "@grapecity/wijmo" "5.20203.766"
+    "@grapecity/wijmo.chart" "5.20203.766"
+
+"@grapecity/wijmo.chart.animation@5.20203.766":
+  version "5.20203.766"
+  resolved "https://registry.yarnpkg.com/@grapecity/wijmo.chart.animation/-/wijmo.chart.animation-5.20203.766.tgz#0ca5ce27cc912beaeda4ed06584fd31c262e98cd"
+  integrity sha512-4VCavkb/mVtMewZjhULac6dM7DBRRwkgvLtD+Ix6h/OfmqUkCnrwFAaBLlv9yXr0OBYSCOxioHPRE+geZuFRgg==
+  dependencies:
+    "@grapecity/wijmo" "5.20203.766"
+    "@grapecity/wijmo.chart" "5.20203.766"
+
+"@grapecity/wijmo.chart.annotation@5.20203.766":
+  version "5.20203.766"
+  resolved "https://registry.yarnpkg.com/@grapecity/wijmo.chart.annotation/-/wijmo.chart.annotation-5.20203.766.tgz#1f21363d50fe0bb19b6a4da65d4d9efe1957a121"
+  integrity sha512-SWHv/xHUlNEvaTQ19jCaShis6AtmfUUdKgObsJCfq38jyjPQoVPV6YmHM17Tlx4/Vtbw3wX6zt2K9Vx7h2CwRg==
+  dependencies:
+    "@grapecity/wijmo" "5.20203.766"
+    "@grapecity/wijmo.chart" "5.20203.766"
+
+"@grapecity/wijmo.chart.finance.analytics@5.20203.766":
+  version "5.20203.766"
+  resolved "https://registry.yarnpkg.com/@grapecity/wijmo.chart.finance.analytics/-/wijmo.chart.finance.analytics-5.20203.766.tgz#3059f15d7bb0380727abc47509b9d260d3589d17"
+  integrity sha512-pRd9eR9Y2qArhJCb7prbGhn/dV76DDRXuM99lFpV4ZsW7iIVX3tRaXE8+NmKRof1JtHrx2Iqb8O8YYNbJ2gSUA==
+  dependencies:
+    "@grapecity/wijmo" "5.20203.766"
+    "@grapecity/wijmo.chart" "5.20203.766"
+    "@grapecity/wijmo.chart.finance" "5.20203.766"
+
+"@grapecity/wijmo.chart.finance@5.20203.766":
+  version "5.20203.766"
+  resolved "https://registry.yarnpkg.com/@grapecity/wijmo.chart.finance/-/wijmo.chart.finance-5.20203.766.tgz#5623c889febeb18e4d5e0c6c33a1ca9ac15b7ae1"
+  integrity sha512-NM30dwOOJBv790RQINNBFLwj1hkGz1kwjNsd3vUueotA4XbBmmr8H8IR7p2Uo1flAOc8RfdyBeAUzJaqoVc7BA==
+  dependencies:
+    "@grapecity/wijmo" "5.20203.766"
+    "@grapecity/wijmo.chart" "5.20203.766"
+
+"@grapecity/wijmo.chart.hierarchical@5.20203.766":
+  version "5.20203.766"
+  resolved "https://registry.yarnpkg.com/@grapecity/wijmo.chart.hierarchical/-/wijmo.chart.hierarchical-5.20203.766.tgz#7568835be4d23fde1778407aa7d674d3f6fab443"
+  integrity sha512-VTAOXuHNBAHfrmJpa2jVpbqgV7jHUHFWPnrri8Pf12TkNc5qRv7eK84cpnq9P3aqnx6BT9FSs/qS+0F4h2vdoA==
+  dependencies:
+    "@grapecity/wijmo" "5.20203.766"
+    "@grapecity/wijmo.chart" "5.20203.766"
+
+"@grapecity/wijmo.chart.interaction@5.20203.766":
+  version "5.20203.766"
+  resolved "https://registry.yarnpkg.com/@grapecity/wijmo.chart.interaction/-/wijmo.chart.interaction-5.20203.766.tgz#0ef5876e00aa312a0e3c56da0eb9ad3981dd63d4"
+  integrity sha512-y0tvkYwS1naNaogTw2gS7sjVH7TCGRQSgIr19mbnnsmMDsK80B3VLgMe/GnqOrhoe9lMJ0M6I+0dF5CvK2PuFw==
+  dependencies:
+    "@grapecity/wijmo" "5.20203.766"
+    "@grapecity/wijmo.chart" "5.20203.766"
+
+"@grapecity/wijmo.chart.radar@5.20203.766":
+  version "5.20203.766"
+  resolved "https://registry.yarnpkg.com/@grapecity/wijmo.chart.radar/-/wijmo.chart.radar-5.20203.766.tgz#888af27bd77dfd808b0e4d71c2c5b460b0144f07"
+  integrity sha512-2p1yOGUlV+X8MvKVHMxm1Q767pKpcwxtlTd2PoPIPv3C+vCTBAuUyeIIV5CFvL8W7jGVDUtsSi3EViaId3TWXw==
+  dependencies:
+    "@grapecity/wijmo" "5.20203.766"
+    "@grapecity/wijmo.chart" "5.20203.766"
+
+"@grapecity/wijmo.chart.render@5.20203.766":
+  version "5.20203.766"
+  resolved "https://registry.yarnpkg.com/@grapecity/wijmo.chart.render/-/wijmo.chart.render-5.20203.766.tgz#02c08bca0ef5b05aac7d1e947ed8294ac3be995e"
+  integrity sha512-Z9fr41GU9vAgrHlnR9OlrKBrNjKEcULG3Qr4xt69PgXKxjtM8/rtlFlfhmWlJbFdDFderIV41+30vP+x3D28qA==
+  dependencies:
+    "@grapecity/wijmo" "5.20203.766"
+    "@grapecity/wijmo.chart" "5.20203.766"
+
+"@grapecity/wijmo.chart.webgl@5.20203.766":
+  version "5.20203.766"
+  resolved "https://registry.yarnpkg.com/@grapecity/wijmo.chart.webgl/-/wijmo.chart.webgl-5.20203.766.tgz#5d9f8114aaa20a1542aa16385cdfb360f313adf9"
+  integrity sha512-4Zs25tswRn7kD9lcdTKPey0jVuvh3AZXL58OdSwNOBS502cqAYSDTVE2N0s5SCv936rTUf9Ivnt3amcRVbDYYg==
+  dependencies:
+    "@grapecity/wijmo" "5.20203.766"
+    "@grapecity/wijmo.chart" "5.20203.766"
+
+"@grapecity/wijmo.chart@5.20203.766":
+  version "5.20203.766"
+  resolved "https://registry.yarnpkg.com/@grapecity/wijmo.chart/-/wijmo.chart-5.20203.766.tgz#e77cb17a149bec2bc4ebf1629a352abb1fb15d0e"
+  integrity sha512-+g5C8Qbr65MiSFXwtgWZJCPpebmPlb5SLKAAA5yuatgo/GRSmUXbLaBHhgn01Gx/ZfedqSrWugl7DAjyY4twwA==
+  dependencies:
+    "@grapecity/wijmo" "5.20203.766"
+
+"@grapecity/wijmo.cloud@5.20203.766":
+  version "5.20203.766"
+  resolved "https://registry.yarnpkg.com/@grapecity/wijmo.cloud/-/wijmo.cloud-5.20203.766.tgz#6a15908074a1b60bdecdbfd7d8a2fe9c35f36643"
+  integrity sha512-TbjWCWfqOZmW5CbICFrNXgF44x7k5rr1UiDAQwUiKz7gEzZefQWLCo4RTEqhp+gG8Brcn0XfExbMskm1MrZm+w==
+  dependencies:
+    "@grapecity/wijmo" "5.20203.766"
+    "@grapecity/wijmo.grid" "5.20203.766"
+    "@grapecity/wijmo.grid.filter" "5.20203.766"
+
+"@grapecity/wijmo.cultures@5.20203.766":
+  version "5.20203.766"
+  resolved "https://registry.yarnpkg.com/@grapecity/wijmo.cultures/-/wijmo.cultures-5.20203.766.tgz#89752ada5af9561e275cdd7717cf7e964db40dea"
+  integrity sha512-dKT+iJImQquvT1UE55xR//BExwq66B8eCuvRegBvwxG7qhyL00UjqfPoBhGQ5PY/2ciRmy+0b2+zsScbfWdyVQ==
+
+"@grapecity/wijmo.gauge@5.20203.766":
+  version "5.20203.766"
+  resolved "https://registry.yarnpkg.com/@grapecity/wijmo.gauge/-/wijmo.gauge-5.20203.766.tgz#adf04169bae3423b34994b5a1cb151279a8f7460"
+  integrity sha512-foVTgWGrU0X6IXwHjadZ/iN1TTAPx1eI8vs1tioMKMFt75V1+FfdDAhZQC8XzOuV2UIWI4EEM5WboqEyexsztw==
+  dependencies:
+    "@grapecity/wijmo" "5.20203.766"
+
+"@grapecity/wijmo.grid.cellmaker@5.20203.766":
+  version "5.20203.766"
+  resolved "https://registry.yarnpkg.com/@grapecity/wijmo.grid.cellmaker/-/wijmo.grid.cellmaker-5.20203.766.tgz#4ac99ed9ed8f3cc7ad1d8b9770447283ac35f6d6"
+  integrity sha512-AeHuboaqQtdRlEhsuqH/6BAqy1Qv2JxvXnLJ7TkjLPgbjtbh3ZholIxHelDkY4054zPvtxEKM2WDeJQdSCRFvg==
+  dependencies:
+    "@grapecity/wijmo" "5.20203.766"
+    "@grapecity/wijmo.grid" "5.20203.766"
+
+"@grapecity/wijmo.grid.detail@5.20203.766":
+  version "5.20203.766"
+  resolved "https://registry.yarnpkg.com/@grapecity/wijmo.grid.detail/-/wijmo.grid.detail-5.20203.766.tgz#58549bdf629e5eb0df9629b2cb5a5712434d556e"
+  integrity sha512-VKcdzkQLuT4mEGujWD/c1a6wGUUgbKZKq7qNSzRZJUIw8KOA1+oiVGvxBJ9Rof/cex4LtDUCfXekJHO15aHqsw==
+  dependencies:
+    "@grapecity/wijmo" "5.20203.766"
+    "@grapecity/wijmo.grid" "5.20203.766"
+    "@grapecity/wijmo.input" "5.20203.766"
+
+"@grapecity/wijmo.grid.filter@5.20203.766":
+  version "5.20203.766"
+  resolved "https://registry.yarnpkg.com/@grapecity/wijmo.grid.filter/-/wijmo.grid.filter-5.20203.766.tgz#5ec32ed1408dcefe26662be8e0d0d6ace53c6689"
+  integrity sha512-k4oCLXqAH7wJM9R7HeDNlOy+Rvs3kUIRls1aHI6Jq8Y0S7D2e3qMKprU5Qq3R1qRX35eTsA8SHoOrcjaV/K0mQ==
+  dependencies:
+    "@grapecity/wijmo" "5.20203.766"
+    "@grapecity/wijmo.grid" "5.20203.766"
+    "@grapecity/wijmo.input" "5.20203.766"
+
+"@grapecity/wijmo.grid.grouppanel@5.20203.766":
+  version "5.20203.766"
+  resolved "https://registry.yarnpkg.com/@grapecity/wijmo.grid.grouppanel/-/wijmo.grid.grouppanel-5.20203.766.tgz#18d8b226c578b6978e21115d8f1b75f52a7771a9"
+  integrity sha512-pzeZWkUbdo8VQ5i4INcVjonFCQ/GaPMR0ju5LFLaW5BuQgWddB109yFb/1rPSq15TEeEP8lNIummQjcklXBe7Q==
+  dependencies:
+    "@grapecity/wijmo" "5.20203.766"
+    "@grapecity/wijmo.grid" "5.20203.766"
+    "@grapecity/wijmo.grid.filter" "5.20203.766"
+    "@grapecity/wijmo.input" "5.20203.766"
+
+"@grapecity/wijmo.grid.immutable@5.20203.766":
+  version "5.20203.766"
+  resolved "https://registry.yarnpkg.com/@grapecity/wijmo.grid.immutable/-/wijmo.grid.immutable-5.20203.766.tgz#b0983baefa9d942d29dbcc4c80416a4e8336b7a7"
+  integrity sha512-5Jzuc3DI2Zpn2gKUhfRyrGM9kSo4ox9shlOGV6TIou33m9iiZuX8TZ4argxTnGOrL4d2a6MNnfzulnfiGcj50g==
+  dependencies:
+    "@grapecity/wijmo" "5.20203.766"
+    "@grapecity/wijmo.grid" "5.20203.766"
+
+"@grapecity/wijmo.grid.multirow@5.20203.766":
+  version "5.20203.766"
+  resolved "https://registry.yarnpkg.com/@grapecity/wijmo.grid.multirow/-/wijmo.grid.multirow-5.20203.766.tgz#fce5dbfe4c67bb33d74e668ba785125eaf37a26a"
+  integrity sha512-rCqFwAHdcCNr0CaIk1v6X83Hw30Vkq13lPraE9hbDMOxitz5hRmf8CW5V56zxOY9aE9wGNXXAIrhZOCJ48bv2w==
+  dependencies:
+    "@grapecity/wijmo" "5.20203.766"
+    "@grapecity/wijmo.grid" "5.20203.766"
+    "@grapecity/wijmo.input" "5.20203.766"
+
+"@grapecity/wijmo.grid.pdf@5.20203.766":
+  version "5.20203.766"
+  resolved "https://registry.yarnpkg.com/@grapecity/wijmo.grid.pdf/-/wijmo.grid.pdf-5.20203.766.tgz#887ce50fe4b83c60ab456f80987da8bc0b5e84bf"
+  integrity sha512-DfvMqsL4bGrkwvyb3Gv9dUH/lolA63zQHTJXzDLF5h7mupFlHaiK/+6g4NCavXdEws5RFGHdmE5jlQGNEcvEOg==
+  dependencies:
+    "@grapecity/wijmo" "5.20203.766"
+    "@grapecity/wijmo.chart" "5.20203.766"
+    "@grapecity/wijmo.grid" "5.20203.766"
+    "@grapecity/wijmo.grid.detail" "5.20203.766"
+    "@grapecity/wijmo.grid.filter" "5.20203.766"
+    "@grapecity/wijmo.grid.multirow" "5.20203.766"
+    "@grapecity/wijmo.grid.sheet" "5.20203.766"
+    "@grapecity/wijmo.grid.transposed" "5.20203.766"
+    "@grapecity/wijmo.grid.transposedmultirow" "5.20203.766"
+    "@grapecity/wijmo.input" "5.20203.766"
+    "@grapecity/wijmo.pdf" "5.20203.766"
+    "@grapecity/wijmo.xlsx" "5.20203.766"
+
+"@grapecity/wijmo.grid.search@5.20203.766":
+  version "5.20203.766"
+  resolved "https://registry.yarnpkg.com/@grapecity/wijmo.grid.search/-/wijmo.grid.search-5.20203.766.tgz#fe334cdb6cae310e035f9bdc07d3ac203d6f453a"
+  integrity sha512-zvGoujOdga/YvrAq2KncxSiG3+0xbDBvi6KyW3GEMcFj2SP0UuUFpTHnM1rbJl9ie4OfuikGCBiFXkIr3ZN4wA==
+  dependencies:
+    "@grapecity/wijmo" "5.20203.766"
+    "@grapecity/wijmo.grid" "5.20203.766"
+
+"@grapecity/wijmo.grid.selector@5.20203.766":
+  version "5.20203.766"
+  resolved "https://registry.yarnpkg.com/@grapecity/wijmo.grid.selector/-/wijmo.grid.selector-5.20203.766.tgz#04b71b6d685b2e300117f7abcc652b222466f1a5"
+  integrity sha512-kMQChGs0CaVAwFNWyBDLzLazMtYAdyw6X8eFp7LUVFW+t3Btg4WJ2SjbOvaUuBKASnA8XwVb8Ng+DGlA6+QwlQ==
+  dependencies:
+    "@grapecity/wijmo" "5.20203.766"
+    "@grapecity/wijmo.grid" "5.20203.766"
+
+"@grapecity/wijmo.grid.sheet@5.20203.766":
+  version "5.20203.766"
+  resolved "https://registry.yarnpkg.com/@grapecity/wijmo.grid.sheet/-/wijmo.grid.sheet-5.20203.766.tgz#e384233f129e21507e8691e2a2df5dd00ffd2337"
+  integrity sha512-6iQwXOgI4kGRqaldvhFRC8CR+9tKg0pPGcR1k8YbYZO2tPN8YviMqNTpU8AARNkYNM5dffVQcP/60MA+/zHbEg==
+  dependencies:
+    "@grapecity/wijmo" "5.20203.766"
+    "@grapecity/wijmo.grid" "5.20203.766"
+    "@grapecity/wijmo.grid.filter" "5.20203.766"
+    "@grapecity/wijmo.input" "5.20203.766"
+
+"@grapecity/wijmo.grid.transposed@5.20203.766":
+  version "5.20203.766"
+  resolved "https://registry.yarnpkg.com/@grapecity/wijmo.grid.transposed/-/wijmo.grid.transposed-5.20203.766.tgz#2d4506fc147c6bc9e9faef05b2ccf6f122be45a5"
+  integrity sha512-kIsmQxf2oPXbVgER/xke/9eHzuuVoJRKWiS9ONx3ux2j8BkkS+d8bAp6ojmVQVkPycKaRPTsXqAmOnYalGhdFg==
+  dependencies:
+    "@grapecity/wijmo" "5.20203.766"
+    "@grapecity/wijmo.grid" "5.20203.766"
+
+"@grapecity/wijmo.grid.transposedmultirow@5.20203.766":
+  version "5.20203.766"
+  resolved "https://registry.yarnpkg.com/@grapecity/wijmo.grid.transposedmultirow/-/wijmo.grid.transposedmultirow-5.20203.766.tgz#195382378e46f142a6f652ab743c4754aa39f150"
+  integrity sha512-1BMyZX5F/r5GtCZCiTDBAZY5fESK1n3TAvCAxQL8qNGVgmmLmHL0uL1P9uILRqHaxiQsYvhrH8tquzcg0WbNmw==
+  dependencies:
+    "@grapecity/wijmo" "5.20203.766"
+    "@grapecity/wijmo.grid" "5.20203.766"
+
+"@grapecity/wijmo.grid.xlsx@5.20203.766":
+  version "5.20203.766"
+  resolved "https://registry.yarnpkg.com/@grapecity/wijmo.grid.xlsx/-/wijmo.grid.xlsx-5.20203.766.tgz#b7be2d089c8b8359b2b156f7cd927503e02c89d2"
+  integrity sha512-VHixDh5dlPX04iaokzJyOZm3K1l8rwTwE8jjWnvr/jPjR2RU+NMFuiqGwLdO2Km2nVNyXgeUYahBBLc1EUBQaw==
+  dependencies:
+    "@grapecity/wijmo" "5.20203.766"
+    "@grapecity/wijmo.grid" "5.20203.766"
+    "@grapecity/wijmo.grid.detail" "5.20203.766"
+    "@grapecity/wijmo.grid.multirow" "5.20203.766"
+    "@grapecity/wijmo.input" "5.20203.766"
+    "@grapecity/wijmo.xlsx" "5.20203.766"
+
+"@grapecity/wijmo.grid@5.20203.766":
+  version "5.20203.766"
+  resolved "https://registry.yarnpkg.com/@grapecity/wijmo.grid/-/wijmo.grid-5.20203.766.tgz#f0e07e52a0490945e3bb166d5ae5996e690edcd8"
+  integrity sha512-KoOMJO1f4hCRErLKuBJig74ywEcknHXcQyE6Qr14SLT4lMEcWbyv0N3ej5iGZ7OEZQu0Ne13NcnnP93PNnbEhw==
+  dependencies:
+    "@grapecity/wijmo" "5.20203.766"
+    "@grapecity/wijmo.input" "5.20203.766"
+
+"@grapecity/wijmo.input@5.20203.766":
+  version "5.20203.766"
+  resolved "https://registry.yarnpkg.com/@grapecity/wijmo.input/-/wijmo.input-5.20203.766.tgz#8f0f3f01a871ca9cfff149d156219c367e7d09dc"
+  integrity sha512-WnDdhyWXRhd+eEfsRTKJHuhJmYCPyll2yhd0dO4B8/M94LSx52UdO5mvPVNqWnq4Rtnz1YMlTEXMbQeAwMoYeg==
+  dependencies:
+    "@grapecity/wijmo" "5.20203.766"
+
+"@grapecity/wijmo.interop.grid@5.20203.766":
+  version "5.20203.766"
+  resolved "https://registry.yarnpkg.com/@grapecity/wijmo.interop.grid/-/wijmo.interop.grid-5.20203.766.tgz#047095c85d33241e42607fbdb72e1c735added9d"
+  integrity sha512-Q0tHYgS7kXHSikuF+Ax/8BjXEdlqFO7/2fFK85V+ub2oAGlF76Wo2VVlbSSmt2iodBSvV1zwtsEcZSQRJfMLXQ==
+  dependencies:
+    "@grapecity/wijmo" "5.20203.766"
+    "@grapecity/wijmo.grid" "5.20203.766"
+    "@grapecity/wijmo.grid.detail" "5.20203.766"
+    "@grapecity/wijmo.input" "5.20203.766"
+
+"@grapecity/wijmo.meta@5.20203.766":
+  version "5.20203.766"
+  resolved "https://registry.yarnpkg.com/@grapecity/wijmo.meta/-/wijmo.meta-5.20203.766.tgz#ab5f48607f386b2060285e7e7bcee804da98f359"
+  integrity sha512-yrafyLGhZ8VfybHt9MHjukF+fw4uQFWl4xCYXtJMgYLjqYPxeFAgJ2hoYH3x050WAcreCbJ/Flw68fYuPGzh3w==
+  dependencies:
+    "@grapecity/wijmo" "5.20203.766"
+    "@grapecity/wijmo.barcode" "5.20203.766"
+    "@grapecity/wijmo.barcode.common" "5.20203.766"
+    "@grapecity/wijmo.barcode.composite" "5.20203.766"
+    "@grapecity/wijmo.barcode.specialized" "5.20203.766"
+    "@grapecity/wijmo.chart" "5.20203.766"
+    "@grapecity/wijmo.chart.analytics" "5.20203.766"
+    "@grapecity/wijmo.chart.animation" "5.20203.766"
+    "@grapecity/wijmo.chart.annotation" "5.20203.766"
+    "@grapecity/wijmo.chart.finance" "5.20203.766"
+    "@grapecity/wijmo.chart.finance.analytics" "5.20203.766"
+    "@grapecity/wijmo.chart.hierarchical" "5.20203.766"
+    "@grapecity/wijmo.chart.interaction" "5.20203.766"
+    "@grapecity/wijmo.chart.radar" "5.20203.766"
+    "@grapecity/wijmo.chart.render" "5.20203.766"
+    "@grapecity/wijmo.gauge" "5.20203.766"
+    "@grapecity/wijmo.grid" "5.20203.766"
+    "@grapecity/wijmo.grid.detail" "5.20203.766"
+    "@grapecity/wijmo.grid.filter" "5.20203.766"
+    "@grapecity/wijmo.grid.grouppanel" "5.20203.766"
+    "@grapecity/wijmo.grid.multirow" "5.20203.766"
+    "@grapecity/wijmo.grid.pdf" "5.20203.766"
+    "@grapecity/wijmo.grid.search" "5.20203.766"
+    "@grapecity/wijmo.grid.selector" "5.20203.766"
+    "@grapecity/wijmo.grid.sheet" "5.20203.766"
+    "@grapecity/wijmo.grid.transposed" "5.20203.766"
+    "@grapecity/wijmo.grid.transposedmultirow" "5.20203.766"
+    "@grapecity/wijmo.grid.xlsx" "5.20203.766"
+    "@grapecity/wijmo.input" "5.20203.766"
+    "@grapecity/wijmo.nav" "5.20203.766"
+    "@grapecity/wijmo.odata" "5.20203.766"
+    "@grapecity/wijmo.olap" "5.20203.766"
+    "@grapecity/wijmo.pdf" "5.20203.766"
+    "@grapecity/wijmo.viewer" "5.20203.766"
+    "@grapecity/wijmo.xlsx" "5.20203.766"
+
+"@grapecity/wijmo.nav@5.20203.766":
+  version "5.20203.766"
+  resolved "https://registry.yarnpkg.com/@grapecity/wijmo.nav/-/wijmo.nav-5.20203.766.tgz#9539582f1b4cfbd5c8e0040c1668dc88176f358b"
+  integrity sha512-l3ftabGfvhGwNFbpGMHvyb12Q3cjAdz9fh81w0wEY7PTl5Pk8AdCxWDMnePCzB63GlGUJJhnJZ5mjIkE/Aq7Cg==
+  dependencies:
+    "@grapecity/wijmo" "5.20203.766"
+
+"@grapecity/wijmo.odata@5.20203.766":
+  version "5.20203.766"
+  resolved "https://registry.yarnpkg.com/@grapecity/wijmo.odata/-/wijmo.odata-5.20203.766.tgz#c6c32d81fe139eeb5dfefab5e02584c492c4ceff"
+  integrity sha512-qUcP9EO7mHidzvm8pvIVbLXfXmIpH6LUinGJHSUYjGy4FM+39zyhgDOhJy6sqslGX4YkPXedTGmzuRBb9PiJIQ==
+  dependencies:
+    "@grapecity/wijmo" "5.20203.766"
+    "@grapecity/wijmo.grid" "5.20203.766"
+    "@grapecity/wijmo.grid.filter" "5.20203.766"
+    "@grapecity/wijmo.input" "5.20203.766"
+
+"@grapecity/wijmo.olap@5.20203.766":
+  version "5.20203.766"
+  resolved "https://registry.yarnpkg.com/@grapecity/wijmo.olap/-/wijmo.olap-5.20203.766.tgz#4219e8478511dc7da1461443cf0739315d8835c8"
+  integrity sha512-aBC+DPJJHsYJIjMCL11bsulI/Gb4hFeq1eGwMFcFuT3VRBLv49NQl+yhsGOViDKyjF5Pu6IbmLrYLkQPRebDag==
+  dependencies:
+    "@grapecity/wijmo" "5.20203.766"
+    "@grapecity/wijmo.chart" "5.20203.766"
+    "@grapecity/wijmo.grid" "5.20203.766"
+    "@grapecity/wijmo.grid.filter" "5.20203.766"
+    "@grapecity/wijmo.input" "5.20203.766"
+
+"@grapecity/wijmo.pdf.security@5.20203.766":
+  version "5.20203.766"
+  resolved "https://registry.yarnpkg.com/@grapecity/wijmo.pdf.security/-/wijmo.pdf.security-5.20203.766.tgz#0ea677c2cc430a52bd4361c2d266891d8c95e7fe"
+  integrity sha512-8zTOcKldHKTgZWSB1QT/b1oRwxKJnF4IDyR+LPPYgu2K/utlQs401To50e0GBgrwGlM4S3/0GoJdsxRBReWSeA==
+  dependencies:
+    "@grapecity/wijmo" "5.20203.766"
+
+"@grapecity/wijmo.pdf@5.20203.766":
+  version "5.20203.766"
+  resolved "https://registry.yarnpkg.com/@grapecity/wijmo.pdf/-/wijmo.pdf-5.20203.766.tgz#1516ea28a7b776f58ca19bca98862e553ee261d9"
+  integrity sha512-DiAcAlCVTvpJ31+gIRlblyVHnInwYq0IiPDXfnrPVTjurX90LMPEqSnO6+6tSL2Qolx1RWxyQw7ZxDPICq3dzQ==
+  dependencies:
+    "@grapecity/wijmo" "5.20203.766"
+
+"@grapecity/wijmo.purejs.all@5.20203.766":
+  version "5.20203.766"
+  resolved "https://registry.yarnpkg.com/@grapecity/wijmo.purejs.all/-/wijmo.purejs.all-5.20203.766.tgz#692efb7100b588adbc250cecc24c1ae71e3ac334"
+  integrity sha512-BKpX25iegv3RxAR5HCCo5xlJMkdUR+iQIoy/CT2gjPYH8sul969l4kE3xh3tdF2l77e7zPIDC71hVyoA6Tz9MQ==
+  dependencies:
+    "@grapecity/wijmo" "5.20203.766"
+    "@grapecity/wijmo.barcode" "5.20203.766"
+    "@grapecity/wijmo.barcode.common" "5.20203.766"
+    "@grapecity/wijmo.barcode.composite" "5.20203.766"
+    "@grapecity/wijmo.barcode.specialized" "5.20203.766"
+    "@grapecity/wijmo.chart" "5.20203.766"
+    "@grapecity/wijmo.chart.analytics" "5.20203.766"
+    "@grapecity/wijmo.chart.animation" "5.20203.766"
+    "@grapecity/wijmo.chart.annotation" "5.20203.766"
+    "@grapecity/wijmo.chart.finance" "5.20203.766"
+    "@grapecity/wijmo.chart.finance.analytics" "5.20203.766"
+    "@grapecity/wijmo.chart.hierarchical" "5.20203.766"
+    "@grapecity/wijmo.chart.interaction" "5.20203.766"
+    "@grapecity/wijmo.chart.radar" "5.20203.766"
+    "@grapecity/wijmo.chart.render" "5.20203.766"
+    "@grapecity/wijmo.chart.webgl" "5.20203.766"
+    "@grapecity/wijmo.cloud" "5.20203.766"
+    "@grapecity/wijmo.cultures" "5.20203.766"
+    "@grapecity/wijmo.gauge" "5.20203.766"
+    "@grapecity/wijmo.grid" "5.20203.766"
+    "@grapecity/wijmo.grid.cellmaker" "5.20203.766"
+    "@grapecity/wijmo.grid.detail" "5.20203.766"
+    "@grapecity/wijmo.grid.filter" "5.20203.766"
+    "@grapecity/wijmo.grid.grouppanel" "5.20203.766"
+    "@grapecity/wijmo.grid.immutable" "5.20203.766"
+    "@grapecity/wijmo.grid.multirow" "5.20203.766"
+    "@grapecity/wijmo.grid.pdf" "5.20203.766"
+    "@grapecity/wijmo.grid.search" "5.20203.766"
+    "@grapecity/wijmo.grid.selector" "5.20203.766"
+    "@grapecity/wijmo.grid.sheet" "5.20203.766"
+    "@grapecity/wijmo.grid.transposed" "5.20203.766"
+    "@grapecity/wijmo.grid.transposedmultirow" "5.20203.766"
+    "@grapecity/wijmo.grid.xlsx" "5.20203.766"
+    "@grapecity/wijmo.input" "5.20203.766"
+    "@grapecity/wijmo.interop.grid" "5.20203.766"
+    "@grapecity/wijmo.meta" "5.20203.766"
+    "@grapecity/wijmo.nav" "5.20203.766"
+    "@grapecity/wijmo.odata" "5.20203.766"
+    "@grapecity/wijmo.olap" "5.20203.766"
+    "@grapecity/wijmo.pdf" "5.20203.766"
+    "@grapecity/wijmo.pdf.security" "5.20203.766"
+    "@grapecity/wijmo.styles" "5.20203.766"
+    "@grapecity/wijmo.touch" "5.20203.766"
+    "@grapecity/wijmo.undo" "5.20203.766"
+    "@grapecity/wijmo.viewer" "5.20203.766"
+    "@grapecity/wijmo.xlsx" "5.20203.766"
+
+"@grapecity/wijmo.styles@5.20203.766":
+  version "5.20203.766"
+  resolved "https://registry.yarnpkg.com/@grapecity/wijmo.styles/-/wijmo.styles-5.20203.766.tgz#0503ec5537b48e0549785d032105ac1318f5a1cc"
+  integrity sha512-Wp5OqwTIzISP5EqKaVvye6ZdZbSjA08d0LtM/LuozwbJkvJCnRIjVJD+xfeJ0Qqi8MXkxodkPlDil3C/rjeg0Q==
+
+"@grapecity/wijmo.touch@5.20203.766":
+  version "5.20203.766"
+  resolved "https://registry.yarnpkg.com/@grapecity/wijmo.touch/-/wijmo.touch-5.20203.766.tgz#095eac240dc5bad67e8dc67addf7423bfceca2a7"
+  integrity sha512-l82wppWvgnmo9usVBq4JFp5qNSqb7hOBQ2uu1ax7zEmWLxY0TG6JDbZH9PfVKihD2wVdzYO6qppmrLeoAGYcqg==
+  dependencies:
+    "@grapecity/wijmo" "5.20203.766"
+
+"@grapecity/wijmo.undo@5.20203.766":
+  version "5.20203.766"
+  resolved "https://registry.yarnpkg.com/@grapecity/wijmo.undo/-/wijmo.undo-5.20203.766.tgz#ac4b391a5c503b294b537e6371e50be3b4e3c552"
+  integrity sha512-caUaEe0/k2exwwYJVF0AdRmSc8K49nIVsukLYnbj5e6m4n9Ct7zJ0FQOsgeXvjjJBRngRCYl/FXIt0A7HdN+Gw==
+  dependencies:
+    "@grapecity/wijmo" "5.20203.766"
+    "@grapecity/wijmo.gauge" "5.20203.766"
+    "@grapecity/wijmo.grid" "5.20203.766"
+    "@grapecity/wijmo.input" "5.20203.766"
+    "@grapecity/wijmo.nav" "5.20203.766"
+
+"@grapecity/wijmo.viewer@5.20203.766":
+  version "5.20203.766"
+  resolved "https://registry.yarnpkg.com/@grapecity/wijmo.viewer/-/wijmo.viewer-5.20203.766.tgz#d17a3ac42e9e6aa92dc2bd205a91f97a81ae7f6b"
+  integrity sha512-qBPzwQOVWUfR3F754dPrzBJTVteBtYYEz9yw/hrQRF/Ru10AOn2sIYa+PMiIqTSJYq3mqNfYBQG6bk2tdbRw6w==
+  dependencies:
+    "@grapecity/wijmo" "5.20203.766"
+    "@grapecity/wijmo.grid" "5.20203.766"
+    "@grapecity/wijmo.input" "5.20203.766"
+
+"@grapecity/wijmo.vue2.all@^5.20203.766":
+  version "5.20203.766"
+  resolved "https://registry.yarnpkg.com/@grapecity/wijmo.vue2.all/-/wijmo.vue2.all-5.20203.766.tgz#73878fa7e1b3264d4cd75c163d71d82296dce335"
+  integrity sha512-/ZxbLOCZmuG8un4w0UFmguDW33BUQayjCZapW5d4dpehKftek2eyvBjVSXYOGitcgeBwwPKOWHeaI51A4A72Fw==
+  dependencies:
+    "@grapecity/wijmo.purejs.all" "5.20203.766"
+    "@grapecity/wijmo.vue2.barcode.common" "5.20203.766"
+    "@grapecity/wijmo.vue2.barcode.composite" "5.20203.766"
+    "@grapecity/wijmo.vue2.barcode.specialized" "5.20203.766"
+    "@grapecity/wijmo.vue2.base" "5.20203.766"
+    "@grapecity/wijmo.vue2.chart" "5.20203.766"
+    "@grapecity/wijmo.vue2.chart.analytics" "5.20203.766"
+    "@grapecity/wijmo.vue2.chart.animation" "5.20203.766"
+    "@grapecity/wijmo.vue2.chart.annotation" "5.20203.766"
+    "@grapecity/wijmo.vue2.chart.finance" "5.20203.766"
+    "@grapecity/wijmo.vue2.chart.finance.analytics" "5.20203.766"
+    "@grapecity/wijmo.vue2.chart.hierarchical" "5.20203.766"
+    "@grapecity/wijmo.vue2.chart.interaction" "5.20203.766"
+    "@grapecity/wijmo.vue2.chart.radar" "5.20203.766"
+    "@grapecity/wijmo.vue2.core" "5.20203.766"
+    "@grapecity/wijmo.vue2.gauge" "5.20203.766"
+    "@grapecity/wijmo.vue2.grid" "5.20203.766"
+    "@grapecity/wijmo.vue2.grid.detail" "5.20203.766"
+    "@grapecity/wijmo.vue2.grid.filter" "5.20203.766"
+    "@grapecity/wijmo.vue2.grid.grouppanel" "5.20203.766"
+    "@grapecity/wijmo.vue2.grid.multirow" "5.20203.766"
+    "@grapecity/wijmo.vue2.grid.search" "5.20203.766"
+    "@grapecity/wijmo.vue2.grid.sheet" "5.20203.766"
+    "@grapecity/wijmo.vue2.grid.transposed" "5.20203.766"
+    "@grapecity/wijmo.vue2.grid.transposedmultirow" "5.20203.766"
+    "@grapecity/wijmo.vue2.input" "5.20203.766"
+    "@grapecity/wijmo.vue2.nav" "5.20203.766"
+    "@grapecity/wijmo.vue2.olap" "5.20203.766"
+    "@grapecity/wijmo.vue2.viewer" "5.20203.766"
+
+"@grapecity/wijmo.vue2.barcode.common@5.20203.766":
+  version "5.20203.766"
+  resolved "https://registry.yarnpkg.com/@grapecity/wijmo.vue2.barcode.common/-/wijmo.vue2.barcode.common-5.20203.766.tgz#e3531b1a532b5da4dfde742cc18835178046df97"
+  integrity sha512-4e3l3VGgHjFSYjenqjRVrIVGdaPbG0aZ78Ya1QBnuD74h04PnJktZf78+sp0ocB7qdCieQWaM41LyDkPZmizWw==
+  dependencies:
+    "@grapecity/wijmo" "5.20203.766"
+    "@grapecity/wijmo.barcode.common" "5.20203.766"
+    "@grapecity/wijmo.vue2.base" "5.20203.766"
+
+"@grapecity/wijmo.vue2.barcode.composite@5.20203.766":
+  version "5.20203.766"
+  resolved "https://registry.yarnpkg.com/@grapecity/wijmo.vue2.barcode.composite/-/wijmo.vue2.barcode.composite-5.20203.766.tgz#6a8c827d9daf8a18acc3e9c1a2c1ae0d7a7b6453"
+  integrity sha512-0CaC10E9kyYoDZV3rRPEjrFb+psjUFsmITaBkK5qVGCEIu5FousUI9L1whfkt7UXtAVR5dq+rR3Xde+Xk9dnUQ==
+  dependencies:
+    "@grapecity/wijmo" "5.20203.766"
+    "@grapecity/wijmo.barcode.composite" "5.20203.766"
+    "@grapecity/wijmo.vue2.base" "5.20203.766"
+
+"@grapecity/wijmo.vue2.barcode.specialized@5.20203.766":
+  version "5.20203.766"
+  resolved "https://registry.yarnpkg.com/@grapecity/wijmo.vue2.barcode.specialized/-/wijmo.vue2.barcode.specialized-5.20203.766.tgz#132682c7a8e4f59b5e93447ec9f55b24fa440916"
+  integrity sha512-qOfaCoeYjV3ZXgHKh4T2soSsbjIH5tZJttle1mfvRhnRcMExkjK3f3Qb82xV8Ak4PXF14pdvo4QQ0uwnx6J+bg==
+  dependencies:
+    "@grapecity/wijmo" "5.20203.766"
+    "@grapecity/wijmo.barcode.specialized" "5.20203.766"
+    "@grapecity/wijmo.vue2.base" "5.20203.766"
+
+"@grapecity/wijmo.vue2.base@5.20203.766":
+  version "5.20203.766"
+  resolved "https://registry.yarnpkg.com/@grapecity/wijmo.vue2.base/-/wijmo.vue2.base-5.20203.766.tgz#ea399dda1bb701b1c7aa347cb58f30554b7b784a"
+  integrity sha512-hW/c3H0bZrb+An4r7drUOHHVu6HCI5JUOCEsO+Vr3EmApUSZiai7QLdHmhExpyEideT6yrqWOsYwEagT+dphUw==
+  dependencies:
+    "@grapecity/wijmo" "5.20203.766"
+
+"@grapecity/wijmo.vue2.chart.analytics@5.20203.766":
+  version "5.20203.766"
+  resolved "https://registry.yarnpkg.com/@grapecity/wijmo.vue2.chart.analytics/-/wijmo.vue2.chart.analytics-5.20203.766.tgz#e4e04169fc0c4ab2b3fd2c7cffe010061a9d2694"
+  integrity sha512-SaFxPPknookW2N7WAR4ZSmMpH9rOv1Oag+U/BXd5xH4bBpi373n6LhAGIn4Rs6TjQETF5Q30iLrHxd/odxS2TA==
+  dependencies:
+    "@grapecity/wijmo" "5.20203.766"
+    "@grapecity/wijmo.chart.analytics" "5.20203.766"
+
+"@grapecity/wijmo.vue2.chart.animation@5.20203.766":
+  version "5.20203.766"
+  resolved "https://registry.yarnpkg.com/@grapecity/wijmo.vue2.chart.animation/-/wijmo.vue2.chart.animation-5.20203.766.tgz#18410914f89733d045b661d54164994b848f2ad9"
+  integrity sha512-qQdfwkWRIb541xtZR4q1iGv+dnNDatsTiJT2M/Ol9vMAPuF3VYN9R3wlfeQZ2jdKztUiAb4cw+q8oDMNM/0omg==
+  dependencies:
+    "@grapecity/wijmo" "5.20203.766"
+    "@grapecity/wijmo.chart.animation" "5.20203.766"
+    "@grapecity/wijmo.vue2.base" "5.20203.766"
+
+"@grapecity/wijmo.vue2.chart.annotation@5.20203.766":
+  version "5.20203.766"
+  resolved "https://registry.yarnpkg.com/@grapecity/wijmo.vue2.chart.annotation/-/wijmo.vue2.chart.annotation-5.20203.766.tgz#3e2037664b1eb40747a0933080e73f91e5f64982"
+  integrity sha512-CEkIDovuWyl3kbiSGeUrC5nfGnjzm98kUe8FMXzPKyBH5fwOT9g0KlBleQFS2BA00Lm5Jj8/4se/INknjqhPcw==
+  dependencies:
+    "@grapecity/wijmo" "5.20203.766"
+    "@grapecity/wijmo.chart.annotation" "5.20203.766"
+    "@grapecity/wijmo.vue2.base" "5.20203.766"
+
+"@grapecity/wijmo.vue2.chart.finance.analytics@5.20203.766":
+  version "5.20203.766"
+  resolved "https://registry.yarnpkg.com/@grapecity/wijmo.vue2.chart.finance.analytics/-/wijmo.vue2.chart.finance.analytics-5.20203.766.tgz#8a4e0a24b4262cbd2ac4ca8fff46bc21ae0f2fe6"
+  integrity sha512-73tioEg8GefG35KxPvCE5UNwJL2He7X4xbCyPkmXdAuP2LA5+6ezDdDYZVBgo2JUqmYHPMx5rR4rQITEtui1JQ==
+  dependencies:
+    "@grapecity/wijmo" "5.20203.766"
+    "@grapecity/wijmo.chart.finance.analytics" "5.20203.766"
+    "@grapecity/wijmo.vue2.base" "5.20203.766"
+
+"@grapecity/wijmo.vue2.chart.finance@5.20203.766":
+  version "5.20203.766"
+  resolved "https://registry.yarnpkg.com/@grapecity/wijmo.vue2.chart.finance/-/wijmo.vue2.chart.finance-5.20203.766.tgz#b955d5a7ec757fc0c4e847338df2fa0e6e909a4d"
+  integrity sha512-LudpddXInCmBwGreiDEBqyYGKbYEevrh2lfCQqbAKgDbV5ETCJUjsKv4CCmudbzDceCUcAz3xY4fZcV/v0lZjw==
+  dependencies:
+    "@grapecity/wijmo" "5.20203.766"
+    "@grapecity/wijmo.chart.finance" "5.20203.766"
+    "@grapecity/wijmo.vue2.base" "5.20203.766"
+
+"@grapecity/wijmo.vue2.chart.hierarchical@5.20203.766":
+  version "5.20203.766"
+  resolved "https://registry.yarnpkg.com/@grapecity/wijmo.vue2.chart.hierarchical/-/wijmo.vue2.chart.hierarchical-5.20203.766.tgz#589d7e7616bf76631b8f0211fdcc5e9eeeca8bd2"
+  integrity sha512-OAaQGsEa6FeoWynE6MD8uP/LBTYN+xAbtOB4sIYXSTjmPTAAWIjaA3FFklx4aCnmsIIXwsz3HZxuWKRWXoLhJg==
+  dependencies:
+    "@grapecity/wijmo" "5.20203.766"
+    "@grapecity/wijmo.chart.hierarchical" "5.20203.766"
+    "@grapecity/wijmo.vue2.base" "5.20203.766"
+
+"@grapecity/wijmo.vue2.chart.interaction@5.20203.766":
+  version "5.20203.766"
+  resolved "https://registry.yarnpkg.com/@grapecity/wijmo.vue2.chart.interaction/-/wijmo.vue2.chart.interaction-5.20203.766.tgz#386fcdb7f294a781572bb1d5035386bb8f116a07"
+  integrity sha512-b5TWU/neK3ROC43mcQaQNQ2l5PgPSzLhnxHG33lXBp9O2XgtbS/8/C25zl1y0/FxNJTqnvZU4n0fuQP/HOlOwA==
+  dependencies:
+    "@grapecity/wijmo" "5.20203.766"
+    "@grapecity/wijmo.chart.interaction" "5.20203.766"
+    "@grapecity/wijmo.vue2.base" "5.20203.766"
+
+"@grapecity/wijmo.vue2.chart.radar@5.20203.766":
+  version "5.20203.766"
+  resolved "https://registry.yarnpkg.com/@grapecity/wijmo.vue2.chart.radar/-/wijmo.vue2.chart.radar-5.20203.766.tgz#8e91a49de779036922abb59882e87a36a74643c1"
+  integrity sha512-1ynIuD2bE7v7NA+pQumZ26O0suplom2/O5WLl3qAvMgDSFnmasUqyrkjp2pGMAzfEzWLDEkw/HoDYPFMI6855Q==
+  dependencies:
+    "@grapecity/wijmo" "5.20203.766"
+    "@grapecity/wijmo.chart.radar" "5.20203.766"
+    "@grapecity/wijmo.vue2.base" "5.20203.766"
+
+"@grapecity/wijmo.vue2.chart@5.20203.766":
+  version "5.20203.766"
+  resolved "https://registry.yarnpkg.com/@grapecity/wijmo.vue2.chart/-/wijmo.vue2.chart-5.20203.766.tgz#e002628742f0084ed566ecce6eab25123b631975"
+  integrity sha512-jUT+gNewrX/dWLLbUm7Gv9QdJOanonLobII1IgQes6J9iTT9QFmdzZ94oHLQYJhehl9iTgKYr8T1R/1KFWdYZA==
+  dependencies:
+    "@grapecity/wijmo" "5.20203.766"
+    "@grapecity/wijmo.chart" "5.20203.766"
+    "@grapecity/wijmo.vue2.base" "5.20203.766"
+
+"@grapecity/wijmo.vue2.core@5.20203.766":
+  version "5.20203.766"
+  resolved "https://registry.yarnpkg.com/@grapecity/wijmo.vue2.core/-/wijmo.vue2.core-5.20203.766.tgz#9861f6728fc4bc8cc75c02d0a5d468082a3bbffe"
+  integrity sha512-pXaqJ05iBmKfjioKPGA9sHQBPb2Urs/SRWNQSnDVcqCUKDGy7pWV37FG/LPeDwXjPYW6TkDy9UdPTHQREFmhdw==
+  dependencies:
+    "@grapecity/wijmo" "5.20203.766"
+    "@grapecity/wijmo.vue2.base" "5.20203.766"
+
+"@grapecity/wijmo.vue2.gauge@5.20203.766":
+  version "5.20203.766"
+  resolved "https://registry.yarnpkg.com/@grapecity/wijmo.vue2.gauge/-/wijmo.vue2.gauge-5.20203.766.tgz#3530751350d2196ddb358c97f7ae779de5e966ce"
+  integrity sha512-PXO9jQLoUwkm2f64Z7zB81uUCQdNMokU7xrA33dbskc382q5+Yn1gZieP3y/bGofJ3SSiq1FAgr62J7s+i1aRA==
+  dependencies:
+    "@grapecity/wijmo" "5.20203.766"
+    "@grapecity/wijmo.gauge" "5.20203.766"
+    "@grapecity/wijmo.vue2.base" "5.20203.766"
+
+"@grapecity/wijmo.vue2.grid.detail@5.20203.766":
+  version "5.20203.766"
+  resolved "https://registry.yarnpkg.com/@grapecity/wijmo.vue2.grid.detail/-/wijmo.vue2.grid.detail-5.20203.766.tgz#f314ffc991bf928e8fe05b3c4d730b2aa6bc27b4"
+  integrity sha512-6h6XGlKZFYgVut1Kv5U/56KoMze5iSo8v9ZhOZKLeSew5iNHuomLXV0Q6Punz0icHsFNp1i08wOHWxPoQC7KCQ==
+  dependencies:
+    "@grapecity/wijmo" "5.20203.766"
+    "@grapecity/wijmo.grid" "5.20203.766"
+    "@grapecity/wijmo.grid.detail" "5.20203.766"
+    "@grapecity/wijmo.vue2.base" "5.20203.766"
+
+"@grapecity/wijmo.vue2.grid.filter@5.20203.766":
+  version "5.20203.766"
+  resolved "https://registry.yarnpkg.com/@grapecity/wijmo.vue2.grid.filter/-/wijmo.vue2.grid.filter-5.20203.766.tgz#b15a3561065c624c66acdb73313e66563cfbecd0"
+  integrity sha512-yhlEHudmk4dw9E4LkrK3mLqdePnqQxqCOm7ZnQWJEEE5m4Srk+TO8Cavya1nI5oJC4hn+rw44M+fPvwBqnGM+g==
+  dependencies:
+    "@grapecity/wijmo" "5.20203.766"
+    "@grapecity/wijmo.grid.filter" "5.20203.766"
+    "@grapecity/wijmo.vue2.base" "5.20203.766"
+
+"@grapecity/wijmo.vue2.grid.grouppanel@5.20203.766":
+  version "5.20203.766"
+  resolved "https://registry.yarnpkg.com/@grapecity/wijmo.vue2.grid.grouppanel/-/wijmo.vue2.grid.grouppanel-5.20203.766.tgz#1e9c55bb1334a405e36794efad6ca2cd5e5b58fa"
+  integrity sha512-4Uf2e0QZyBcTDMxyUDoLBCLkkfh/kF6dMvgtRffBwKxT9Jf5grzylIT2u6VhyxBpyhNsZfZdINNcypYEFFZgiQ==
+  dependencies:
+    "@grapecity/wijmo" "5.20203.766"
+    "@grapecity/wijmo.grid.grouppanel" "5.20203.766"
+    "@grapecity/wijmo.vue2.base" "5.20203.766"
+
+"@grapecity/wijmo.vue2.grid.multirow@5.20203.766":
+  version "5.20203.766"
+  resolved "https://registry.yarnpkg.com/@grapecity/wijmo.vue2.grid.multirow/-/wijmo.vue2.grid.multirow-5.20203.766.tgz#83138287b42fd99c7271141997b168695fe1b08b"
+  integrity sha512-gSO/K1Ld3P529vAw0kxXJKp3Lt4yOUGVgbStuVczkZf0C86RYSB+yYTvCqucDUAw+JS65Dfn9R5pvR2Ai0ZaGg==
+  dependencies:
+    "@grapecity/wijmo" "5.20203.766"
+    "@grapecity/wijmo.grid.multirow" "5.20203.766"
+    "@grapecity/wijmo.vue2.base" "5.20203.766"
+
+"@grapecity/wijmo.vue2.grid.search@5.20203.766":
+  version "5.20203.766"
+  resolved "https://registry.yarnpkg.com/@grapecity/wijmo.vue2.grid.search/-/wijmo.vue2.grid.search-5.20203.766.tgz#a6dd9c09a4bd6736d0917069ba11cc32a362765b"
+  integrity sha512-GsrMakaek8BTkbMMBtX5w/YR74+91sLG9NggiK5zTpC8g9rpIoPLmafZgXOx6xeUgDPxizlOyq3QdpKrBvrg3Q==
+  dependencies:
+    "@grapecity/wijmo" "5.20203.766"
+    "@grapecity/wijmo.grid.search" "5.20203.766"
+    "@grapecity/wijmo.vue2.base" "5.20203.766"
+
+"@grapecity/wijmo.vue2.grid.sheet@5.20203.766":
+  version "5.20203.766"
+  resolved "https://registry.yarnpkg.com/@grapecity/wijmo.vue2.grid.sheet/-/wijmo.vue2.grid.sheet-5.20203.766.tgz#a6e8c1d961056d93cd5bca68bfa8fdcd847439f9"
+  integrity sha512-er7xE2fAfYMY6Z9IJPbN04/G+qPUsK1nSMeUn6CRZbdSwDkUwolGU83sSHVsbWwY7IkiyR0hLClcHh6cOxqg1w==
+  dependencies:
+    "@grapecity/wijmo" "5.20203.766"
+    "@grapecity/wijmo.grid.sheet" "5.20203.766"
+    "@grapecity/wijmo.vue2.base" "5.20203.766"
+
+"@grapecity/wijmo.vue2.grid.transposed@5.20203.766":
+  version "5.20203.766"
+  resolved "https://registry.yarnpkg.com/@grapecity/wijmo.vue2.grid.transposed/-/wijmo.vue2.grid.transposed-5.20203.766.tgz#0f298ff254a5fd2956a479df501bb5c5b6bb0446"
+  integrity sha512-MYw7henPCMGHxcBtjlQ3EJuzrOovEw4/2klXl2aa9AC2xdorfNxZ49lfPeJ+h3nmSWiOYY04w2yIMXsHVjCweA==
+  dependencies:
+    "@grapecity/wijmo" "5.20203.766"
+    "@grapecity/wijmo.grid.transposed" "5.20203.766"
+    "@grapecity/wijmo.vue2.base" "5.20203.766"
+
+"@grapecity/wijmo.vue2.grid.transposedmultirow@5.20203.766":
+  version "5.20203.766"
+  resolved "https://registry.yarnpkg.com/@grapecity/wijmo.vue2.grid.transposedmultirow/-/wijmo.vue2.grid.transposedmultirow-5.20203.766.tgz#4118ba3b6b4759c07b58b700cffc1ce01460e771"
+  integrity sha512-Qiv3hYAU3HJA3C4MjivfF6tdnxy7BkENBaVe3nPyk38SU9vuH9HeMfE8yDDoscRHtq1mFf5ZnsawkVUYNiTN5g==
+  dependencies:
+    "@grapecity/wijmo" "5.20203.766"
+    "@grapecity/wijmo.grid.transposedmultirow" "5.20203.766"
+    "@grapecity/wijmo.vue2.base" "5.20203.766"
+
+"@grapecity/wijmo.vue2.grid@5.20203.766":
+  version "5.20203.766"
+  resolved "https://registry.yarnpkg.com/@grapecity/wijmo.vue2.grid/-/wijmo.vue2.grid-5.20203.766.tgz#ecc934b0d37ec559e62438f5195a17fc3545bfb1"
+  integrity sha512-Ky/8rxvFwJL0XJXyCbbBK9wzxQdY4kb5qwNfJyLiOaNWGugpsyt6T2AQX/b1vTqPMYvTd4KZ9nkoHSfAc0UyHg==
+  dependencies:
+    "@grapecity/wijmo" "5.20203.766"
+    "@grapecity/wijmo.grid" "5.20203.766"
+    "@grapecity/wijmo.grid.detail" "5.20203.766"
+    "@grapecity/wijmo.input" "5.20203.766"
+    "@grapecity/wijmo.interop.grid" "5.20203.766"
+    "@grapecity/wijmo.vue2.base" "5.20203.766"
+
+"@grapecity/wijmo.vue2.input@5.20203.766":
+  version "5.20203.766"
+  resolved "https://registry.yarnpkg.com/@grapecity/wijmo.vue2.input/-/wijmo.vue2.input-5.20203.766.tgz#2717280dbe3d0dccc09d2851d2fb384625887351"
+  integrity sha512-kb2cC/TwktlC+IAfWl7tvaY622/iRwVMIeGJm2G9eX4qbpou/xeybLvRjk1+8i+EzhHhecHF0UbLTB0v9CPBAQ==
+  dependencies:
+    "@grapecity/wijmo" "5.20203.766"
+    "@grapecity/wijmo.input" "5.20203.766"
+    "@grapecity/wijmo.vue2.base" "5.20203.766"
+
+"@grapecity/wijmo.vue2.nav@5.20203.766":
+  version "5.20203.766"
+  resolved "https://registry.yarnpkg.com/@grapecity/wijmo.vue2.nav/-/wijmo.vue2.nav-5.20203.766.tgz#c69a98ef9c6f843620d24192f83f4689d136ada6"
+  integrity sha512-7FoHWUdrc8sMUSQcoAykIJ/s/RbtApQAfUxM6n35I/bWcYKrcruxQ5at0rbYhIuz9CjLJITomVbeXcd2DBd9PA==
+  dependencies:
+    "@grapecity/wijmo" "5.20203.766"
+    "@grapecity/wijmo.nav" "5.20203.766"
+    "@grapecity/wijmo.vue2.base" "5.20203.766"
+
+"@grapecity/wijmo.vue2.olap@5.20203.766":
+  version "5.20203.766"
+  resolved "https://registry.yarnpkg.com/@grapecity/wijmo.vue2.olap/-/wijmo.vue2.olap-5.20203.766.tgz#3735790c14e7acdbb19cb520a15d98b3d302ce99"
+  integrity sha512-k7Z0YZMnz/Xi/mKLGtzrOts6dxWLYxJLaVSXwyf10a+XPtacK5or9oEGDSGtg+WiL15lv4LehO+Y8EO37ZHBkA==
+  dependencies:
+    "@grapecity/wijmo" "5.20203.766"
+    "@grapecity/wijmo.olap" "5.20203.766"
+    "@grapecity/wijmo.vue2.base" "5.20203.766"
+
+"@grapecity/wijmo.vue2.viewer@5.20203.766":
+  version "5.20203.766"
+  resolved "https://registry.yarnpkg.com/@grapecity/wijmo.vue2.viewer/-/wijmo.vue2.viewer-5.20203.766.tgz#6214ce3893d8dfde50787c2306b663e3273e7a16"
+  integrity sha512-/hmxmSxYCJj6slltnM2rGyDIMPNDDxFdz0sTkX1cjwfGG/igVSD2YoX+2n9TMLtMzGGZherF2UpYFBbmyaArzw==
+  dependencies:
+    "@grapecity/wijmo" "5.20203.766"
+    "@grapecity/wijmo.viewer" "5.20203.766"
+    "@grapecity/wijmo.vue2.base" "5.20203.766"
+
+"@grapecity/wijmo.xlsx@5.20203.766":
+  version "5.20203.766"
+  resolved "https://registry.yarnpkg.com/@grapecity/wijmo.xlsx/-/wijmo.xlsx-5.20203.766.tgz#29f3906fa815db0314122fea76cf4665bc071a89"
+  integrity sha512-O9cWAQkzgV0vf910Lfk5ch3pzRBvJOFq8EIfd9opobOzhOLjTCyFpEKBSrfOBdwnE4HzEDZVCfJBe0CogyRGWQ==
+  dependencies:
+    "@grapecity/wijmo" "5.20203.766"
+
+"@grapecity/wijmo@5.20203.766":
+  version "5.20203.766"
+  resolved "https://registry.yarnpkg.com/@grapecity/wijmo/-/wijmo-5.20203.766.tgz#eb61e10ac6a92504d31acd594b31aa6b586434de"
+  integrity sha512-6QWOqw/AL/c4bQcmof1E+XUDmY20dRH9shzIx9TcRarGYK+Jqbnna2xHZB4jat7Ak5cKA4YyD4mKp03eCY6DZg==
+  dependencies:
+    "@grapecity/wijmo.styles" "5.20203.766"
+
 "@hapi/address@2.x.x":
   version "2.1.4"
   resolved "https://registry.yarnpkg.com/@hapi/address/-/address-2.1.4.tgz#5d67ed43f3fd41a69d4b9ff7b56e7c0d1d0a81e5"
